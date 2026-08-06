@@ -1,0 +1,13 @@
+Omni Apps
+Copyright (C) 2026 Arafath (https://github.com/smartworldarafath)
+
+This is the official source for Omni Apps.
+The only official APK distribution is at:
+  https://github.com/smartworldarafath/Omni-Apps/releases
+
+Any other distribution claiming to be "Omni Apps" is unofficial
+and should not be trusted.
+
+The official build is signed with the developer's keystore.
+You can verify the APK signature using:
+  apksigner verify --print-certs app-release.apk

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Backgrounds -->
+    <color name="bg_primary">#F8F9FF</color>
+    <color name="bg_surface">#FFFFFF</color>
+    <color name="bg_surface_alt">#F0F2FF</color>
+
+    <!-- Text -->
+    <color name="text_primary">#0D0D1A</color>
+    <color name="text_secondary">#6B7280</color>
+
+    <!-- Brand colours -->
+    <color name="accent_purple">#6C63FF</color>
+    <color name="accent_orange">#FF6B35</color>
+
+    <!-- Utility -->
+    <color name="border">#E8EAFF</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="ic_launcher_background">#FF000000</color>
+</resources>
