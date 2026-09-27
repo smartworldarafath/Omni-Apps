@@ -243,11 +243,15 @@ Contributions are welcome! Open an issue first to discuss what you'd like to cha
 
 <div align="center">
 
+<a href="SUPPORT.md" target="_blank">
+  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20Arafath%20Rahman-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee" />
+</a>
+<br/>
+<sub><b>▲ Tap the sticker for the full support page &mdash; or expand every payment option &amp; the payment QR codes right here</b></sub>
+
 <details>
 <summary>
-  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20Arafath%20Rahman-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee" />
-  <br/>
-  <sub><b>▲ Click here to see every payment option &amp; the payment QR codes</b></sub>
+  <sub><b>Show all payment options &amp; QR codes</b></sub>
 </summary>
 
 <br/>
