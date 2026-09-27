@@ -239,8 +239,6 @@ Contributions are welcome! Open an issue first to discuss what you'd like to cha
 
 ---
 
-## ☕ Support / Buy Me a Coffee & Become a Sponsor
-
 <div align="center">
 
 <a href="SUPPORT.md" target="_blank">
